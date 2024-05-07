@@ -1,2 +1,3 @@
-# nyilthelyi
-Szent-Györgyi Albert nyílthelyi
+
+Szent-Györgyi Albert beadandók
+
